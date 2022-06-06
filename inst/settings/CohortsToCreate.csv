@@ -1,0 +1,25 @@
+atlasId,atlasName,cohortId,name
+2319,Rivaroxaban,2319,Rivaroxaban
+2318,Dabigatran,2318,Dabigatran
+2314,Intracranial hemorrhage,2314,Intracranial_hemorrhage
+2315,Ischemic stroke and systemic embolism,2315,Ischemic_stroke_and_systemic_embolism
+2313,Gastrointestinal bleeding,2313,Gastrointestinal_bleeding
+2312,All-cause mortality,2312,Allcause_mortality
+2317,Edoxaban,2317,Edoxaban
+2316,Apixaban,2316,Apixaban
+2646,Rivaroxaban - reduced dose,2646,Rivaroxaban__reduced_dose
+2648,Apixaban - reduced dose,2648,Apixaban__reduced_dose
+2650,Dabigatran - reduced dose,2650,Dabigatran__reduced_dose
+2665,Dabigatran - CKD subgroup,2665,Dabigatran__CKD_subgroup
+2663,Apixaban - CKD subgroup,2663,Apixaban__CKD_subgroup
+2662,Rivaroxaban - CKD subgroup,2662,Rivaroxaban__CKD_subgroup
+2664,Edoxaban - CKD subgroup,2664,Edoxaban__CKD_subgroup
+2652,Edoxaban - reduced dose,2652,Edoxaban__reduced_dose
+2649,Dabigatran - standard dose,2649,Dabigatran__standard_dose
+2647,Apixaban - standard dose,2647,Apixaban__standard_dose
+2651,Edoxaban - standard dose,2651,Edoxaban__standard_dose
+2418,Rivaroxaban - standard dose,2418,Rivaroxaban__standard_dose
+2666,Dabigatran - 80+ yo subgroup,2666,Dabigatran__80_yo_subgroup
+2667,Edoxaban - 80+ yo subgroup,2667,Edoxaban__80_yo_subgroup
+2668,Apixaban - 80+ yo subgroup,2668,Apixaban__80_yo_subgroup
+2669,Rivaroxaban - 80+ yo subgroup,2669,Rivaroxaban__80_yo_subgroup
