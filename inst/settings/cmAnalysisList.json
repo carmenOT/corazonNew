@@ -8,6 +8,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -1686,6 +1687,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -3364,6 +3366,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
@@ -5042,6 +5045,7 @@
       "maxCohortSize": 0,
       "excludeDrugsFromCovariates": false,
       "covariateSettings": {
+        "CareSiteId": true,
         "VisitCountMediumTerm": false,
         "ObservationShortTerm": true,
         "shortTermStartDays": -30,
